@@ -1,0 +1,51 @@
+*{font-family:Georgia, 'Times New Roman', Times, serif;
+}
+body {
+
+  background-color: #D1CAC0;
+  width: 80;
+  margin:auto;
+  background-image: url(noise.png);  
+    
+}
+.dark-mode {
+    background-color: #1E1E1E;
+    color: #a4ddc1;
+    
+   
+  }
+
+nav{
+  text-align: right;
+}
+.nav-enlace{
+  background-color: #817e78;
+  color: #1E1E1E;
+  padding: 12px 30px;
+  margin: 10px;
+  text-decoration: none;
+  display: inline-block;
+}
+.nav-enlace:hover{
+  color:#A7AA9F
+}
+
+.modito{
+  width: 32px;
+}
+
+.primi{
+  width:35%;
+  position:relative;left: 120px;
+}
+  h1{
+    text-align:center;
+    font-size: 50px;
+  }
+  h2{
+    text-align: center;
+  }
+p{
+    text-align: center;
+}
+
